@@ -9,8 +9,8 @@ on:
 jobs:
   build:
 
-    runs-on: macos-latest
-
+    runs-on: ubuntu-latest
+buntu
     steps:
     - uses: actions/checkout@v3
     - name: set up JDK 11
